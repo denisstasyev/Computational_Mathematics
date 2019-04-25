@@ -1,2 +1,2 @@
 # Computational_Mathematics
-Second semester tasks in Computational Mathematics course at MIPT
+Second semester tasks for the Computational Mathematics course at MIPT.
